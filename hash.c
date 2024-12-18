@@ -13,7 +13,7 @@ assert(sLength(0) == 0);
 assert(sLength("a") == 1);
 printf("sLength OK\n");
 
-assert(gHash("mohithv0311") == 639467543);
+assert(gHash("mccoll") == 639467543);
 assert(gHash("alex35") == 5560235);
 assert(gHash("jim45") == 643145);
 assert(gHash("robin99") == 72863299);
